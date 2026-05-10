@@ -33,3 +33,10 @@ Spatiotemporal oceanographic data analysis using EOF decomposition, ARMA/ARIMA/K
 - EOF/SVD Analysis
 - Scientific Visualization
 - Biomedical & Environmental Data Analytics
+
+## Credit
+Florida Atlantic University
+College of Electrical Engineering and Computer Science
+CAP 5768-042 - Intro to Data Science - Spring 2026
+Professor: Dr. Ali Ibrahim
+TA: Mohsen Ahmadi
